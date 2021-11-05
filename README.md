@@ -3,6 +3,8 @@
 
 ## Neovim theme based off of the [Nord Color Palette](https://www.nordtheme.com/docs/colors-and-palettes) and [Atom's OneDark Color Pallete](https://github.com/atom/atom/tree/master/packages/one-dark-ui)
 
+![OneNord](https://user-images.githubusercontent.com/29520244/140460591-0eddc8ae-0e50-4e7c-858c-9b063d435574.png)
+
 ## Features
 
 OneNord.nvim is a colorscheme written in lua for NeoVim that is inspired on [shaunsingh/nord.nvim](https://github.com/shaunsingh/nord.nvim) and [rmehri01/onenord.nvim](https://github.com/rmehri01/onenord.nvim). It is meant to combine the best of these two colorscheme: The speed of nord.nvim and the readble of onenord.nvim
