@@ -72,7 +72,7 @@ times in msec
 042.876  000.532  000.532: sourcing /usr/share/nvim/runtime/autoload/provider/clipboard.vim
 042.894  000.166: before starting main loop
 068.800  025.906: first screen update
-068.810  000.010: --- NVIM STARTED ---
++ 068.810  000.010: --- NVIM STARTED ---
 ```
 </details>
 
@@ -134,7 +134,7 @@ times in msec
 045.525  000.535  000.535: sourcing /usr/share/nvim/runtime/autoload/provider/clipboard.vim
 045.543  000.165: before starting main loop
 071.556  026.013: first screen update
-071.566  000.010: --- NVIM STARTED ---
+- 071.566  000.010: --- NVIM STARTED ---
 ```
 </details>
 
@@ -196,7 +196,7 @@ times in msec
 035.368  000.457  000.457: sourcing /usr/share/nvim/runtime/autoload/provider/clipboard.vim
 035.383  000.144: before starting main loop
 057.655  022.272: first screen update
-057.664  000.009: --- NVIM STARTED ---
++ 057.664  000.009: --- NVIM STARTED ---
 ```
 </details>
 
