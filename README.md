@@ -64,4 +64,7 @@ colorscheme onenord
 require'onenord'.set()
 ```
 
+## Special Thanks
+
+This repository is based on [shaunsingh/nord.nvim](https://github.com/shaunsingh/nord.nvim) and [rmehri01/onenord.nvim](https://github.com/rmehri01/onenord.nvim). Please check out their repo!
 
