@@ -13,23 +13,24 @@ OneNord.nvim is a colorscheme written in lua for NeoVim that is inspired on [sha
 That is a good point. I do love [shaunsingh/nord.nvim](https://github.com/shaunsingh/nord.nvim), but the constrast of the colorscheme does not satisfy me! The comments are hard to see, as well as some elements as keywords and modifiers have the same colors. Otherwise, [rmehri01/onenord.nvim](https://github.com/rmehri01/onenord.nvim) has the perfect colorscheme I need, but I do notice it makes my startuptime a little bit slower (10ms) than [shaunsingh/nord.nvim](https://github.com/shaunsingh/nord.nvim).
 
 ### Supported plugins
-    - [TreeSitter](https://github.com/nvim-treesitter/nvim-treesitter)
-    - [LSP Diagnostics](https://neovim.io/doc/user/lsp.html)
-    - [Lsp Saga](https://github.com/glepnir/lspsaga.nvim)
-    - [LSP Trouble](https://github.com/folke/lsp-trouble.nvim)
-    - [Git Gutter](https://github.com/airblade/vim-gitgutter)
-    - [git-messenger](https://github.com/rhysd/git-messenger.vim)
-    - [Git Signs](https://github.com/lewis6991/gitsigns.nvim)
-    - [Telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
-    - [Nvim-Tree.lua](https://github.com/kyazdani42/nvim-tree.lua)
-    - [NERDTree](https://github.com/preservim/nerdtree)
-    - [vim-which-key](https://github.com/liuchengxu/vim-which-key)
-    - [Indent-Blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim)
-    - [Dashboard](https://github.com/glepnir/dashboard-nvim)
-    - [BufferLine](https://github.com/akinsho/nvim-bufferline.lua)
-    - [Neogit](https://github.com/TimUntersberger/neogit)
-    - [vim-sneak](https://github.com/justinmk/vim-sneak)
-    - [lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim)
+
+- [TreeSitter](https://github.com/nvim-treesitter/nvim-treesitter)
+- [LSP Diagnostics](https://neovim.io/doc/user/lsp.html)
+- [Lsp Saga](https://github.com/glepnir/lspsaga.nvim)
+- [LSP Trouble](https://github.com/folke/lsp-trouble.nvim)
+- [Git Gutter](https://github.com/airblade/vim-gitgutter)
+- [git-messenger](https://github.com/rhysd/git-messenger.vim)
+- [Git Signs](https://github.com/lewis6991/gitsigns.nvim)
+- [Telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
+- [Nvim-Tree.lua](https://github.com/kyazdani42/nvim-tree.lua)
+- [NERDTree](https://github.com/preservim/nerdtree)
+- [vim-which-key](https://github.com/liuchengxu/vim-which-key)
+- [Indent-Blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim)
+- [Dashboard](https://github.com/glepnir/dashboard-nvim)
+- [BufferLine](https://github.com/akinsho/nvim-bufferline.lua)
+- [Neogit](https://github.com/TimUntersberger/neogit)
+- [vim-sneak](https://github.com/justinmk/vim-sneak)
+- [lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim)
 
 ## Requirements
 
